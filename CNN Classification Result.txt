@@ -1,0 +1,4 @@
+Train/Test Split (70/30)
+
+Accuracy (A vs E): 100.00%
+Accuracy (ABCD vs E): 98.67%
