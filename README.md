@@ -21,9 +21,7 @@ Each signal contains **4097 samples** at 173.61 Hz sampling rate.
 
 - **Model Parameters**: 99,713
 - **Architecture**: 4 Conv1D layers + Global Average Pooling
-- **Test Accuracy**: 100%
-- Training Loss 0.0287
-- Validation Loss	0.0917
+- **Test Accuracy**: Accuracy (A vs E): 100.00% , Accuracy (ABCD vs E): 98.67%
 
 **Model Architecture (BonnCNN):**
 
